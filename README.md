@@ -21,7 +21,7 @@ Overall, Seedling Location Optimizer leverages cutting-edge technology to facili
 #
 ### Related Links
 
-[Trees](https://chat.openai.com/g/g-jd1xcKJm1-trees)
+[Tree Identity](https://chatgpt.com/g/g-jd1xcKJm1-tree-identity)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
