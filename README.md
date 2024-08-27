@@ -22,6 +22,12 @@ Overall, Seedling Location Optimizer leverages cutting-edge technology to facili
 ### Related Links
 
 [Tree Identity](https://chatgpt.com/g/g-jd1xcKJm1-tree-identity)
+<br>
+[Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
+<br>
+[Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
+<br>
+[Botany Automation](https://github.com/sourceduty/Botany_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
