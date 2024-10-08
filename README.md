@@ -28,6 +28,8 @@ Overall, Seedling Location Optimizer leverages cutting-edge technology to facili
 [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 <br>
 [Botany Automation](https://github.com/sourceduty/Botany_Automation)
+<br>
+[Natural Maker](https://github.com/sourceduty/Natural_Maker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
